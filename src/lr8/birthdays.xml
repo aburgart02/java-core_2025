@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<birthdays>
+        
+    <person>
+                
+        <name>Иван Иванов</name>
+                
+        <birthday_date>1990-05-15</birthday_date>
+            
+    </person>
+        
+    <person>
+                
+        <name>Мария Петрова</name>
+                
+        <birthday_date>1985-11-22</birthday_date>
+            
+    </person>
+        
+    <person>
+                
+        <name>Сергей Сидоров</name>
+                
+        <birthday_date>2001-03-30</birthday_date>
+            
+    </person>
+    
+    <person>
+        <name>Артем</name>
+        <birthday_date>2002-02-01</birthday_date>
+    </person>
+</birthdays>
